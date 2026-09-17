@@ -1,5 +1,5 @@
 # Praktikum pertemuan 3 (Matkul PTI)
-Nama: Hastin Suryo Wibisono 
+Nama: Hastin Suryo Wibisono  
 NIM: 260115008  
 Kelas: TRPL 1B  
 
