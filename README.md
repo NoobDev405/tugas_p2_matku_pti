@@ -1,7 +1,7 @@
 # Praktikum pertemuan 3 (Matkul PTI)
-Nama: Hastin Suryo Wibisono
-NIM: 260115008
-Kelas: TRPL 1B
+Nama: Hastin Suryo Wibisono 
+NIM: 260115008  
+Kelas: TRPL 1B  
 
 Kesan pertama menggunakan Visual Studio Code:
 * IDE ini sangat nyaman digunakan untuk text editor atau lebih tepatnya sebagai proses coding
